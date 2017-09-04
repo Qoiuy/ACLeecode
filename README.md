@@ -13,3 +13,6 @@ AC Leecode Record By Java
 			Test1.java Test2.java Test3.java...
 			
 ###### Leecode是没有000的，所以创建一个默认的package每次解决问题时就copy一份就ok
+
+###### 解题步骤由易到难是所有人推荐的。我最后也这样，省的被打脸，兮兮
+
