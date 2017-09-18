@@ -10,7 +10,7 @@ AC Leecode Record By Java
 		_136_Single_Number 　_题号_名称　over
 			README.md
 			Ac_code.java
-			Test1.java Test2.java Test3.java...
+			Demo1.java Demo2.java Demo3.java...
 			
 ###### Leecode是没有000的，所以创建一个默认的package每次解决问题时就copy一份就ok
 
