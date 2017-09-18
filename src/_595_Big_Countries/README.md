@@ -80,3 +80,13 @@ or 不使用索引直接查询表
 索引　
 使用　or < union 
 不使用 or > union 
+
+###### 有人回复
+You could try parallel hint if you are using Oracle Database.
+
+select /*+ PARALLEL (World , 4) */ name, population, area from World where population > 25000000 or area > 3000000; 没解决～
+###### /*+parallel(t,4)*/
+hints是oracle提供的一种机制，用来告诉优化器按照我们的告诉它的方式生成执行计划。我们可以用hints来实现：  
+select /*+ USE_CONCAT*/ name, population, area from World where population > 25000000 or area > 3000000;
+
+具体实现，发现并没有说的那样
