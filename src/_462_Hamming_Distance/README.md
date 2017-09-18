@@ -18,12 +18,12 @@
 ###### 其实 这道题的原意应该是二进制的异或运算
 因为 按照我之前的思路，都是按照10进制考虑运算的 而计算机使用二进制运算的。
 我可以写两个demo测试一下时间就好了。
-第一个 转成2进制然后再转成str. 进行汉明计算，给出结果。代码见Demo1 一会上链接 18 ms -> beats 3.01 % of java submissions.
-第二个 两个数进行异或运算，使用str计算结果。11 ms beats 40.05 % of java 
+第一个 转成2进制然后再转成str. 进行汉明计算，给出结果。代码见[Demo1](https://github.com/Qoiuy/ACLeecode/blob/master/src/_462_Hamming_Distance/Demo1.java) 18 ms -> beats 3.01 %
+第二个 两个数进行异或运算，使用str计算结果。代码见[Demo2](https://github.com/Qoiuy/ACLeecode/blob/master/src/_462_Hamming_Distance/Demo2.java) 11 ms -> beats 40.05 % 
 
-第三个 两个数进行异或运算，然后清除最右侧的1统计清除1的次数 14ms Your runtime beats 9.39 % of java submissions.
+第三个 两个数进行异或运算，然后清除最右侧的1统计清除1的次数 代码见[Demo3](https://github.com/Qoiuy/ACLeecode/blob/master/src/_462_Hamming_Distance/Demo3.java) 14ms -> beats 9.39 % 
 	例如8（1000）= 7（0111）+ 1（0001），所以8 & 7 = （1000）&（0111）= 0（0000）
 	7（0111）= 6（0110）+ 1（0001），所以7 & 6 = （0111）&（0110）= 6（0110）
-优化：
+优化：代码见[Ac_code](https://github.com/Qoiuy/ACLeecode/blob/master/src/_462_Hamming_Distance/Ac_code.java) 
 	if ((x ^ y) == 0) return 0; 
  
