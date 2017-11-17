@@ -10,3 +10,4 @@
 |669|[Trim a Binary Search Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_669_Trim_a_Binary_Search_Tree)|Easy|JAVA|	Accepted|这个题的解题思路我看了，但是没有具体编写代码，这道题我感觉更多使用在将一个普通二叉树转换为二叉搜索树|
 |637|[Average of Levels in Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_637_Average_of_Levels_in_Binary_Tree)|Easy|JAVA|	Accepted|自己吧非递归的写了。手写~，还有更多解法|
 |104|[Maximum Depth of Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_104_Maximum_Depth_of_Binary_Tree)|Easy|JAVA|	Accepted|非递归仿照自己上一道 题  ，递归是网上的代码 google 二叉树深度出的结果|
+|226|[Invert Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_226_Invert_Binary_Tree)|Easy|JAVA|	Accepted|自己写的递归，挺容易写的|
