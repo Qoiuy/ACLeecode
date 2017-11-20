@@ -11,3 +11,4 @@
 |637|[Average of Levels in Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_637_Average_of_Levels_in_Binary_Tree)|Easy|JAVA|	Accepted|自己吧非递归的写了。手写~，还有更多解法|
 |104|[Maximum Depth of Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_104_Maximum_Depth_of_Binary_Tree)|Easy|JAVA|	Accepted|非递归仿照自己上一道 题  ，递归是网上的代码 google 二叉树深度出的结果|
 |226|[Invert Binary Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_226_Invert_Binary_Tree)|Easy|JAVA|	Accepted|自己写的递归，挺容易写的|
+|653|[Two Sum IV - Input is a BST ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_653_Two_Sum_IV_-_Input_is_a_BST)|Easy|JAVA|	Accepted|踩过一个坑 浪费了一个多小时。其他的都还好|
