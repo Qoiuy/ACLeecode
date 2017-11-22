@@ -16,3 +16,4 @@
 |538|[Convert BST to Greater Tree ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_538_Convert BST to Greater Tree)|Easy|JAVA|	Accepted|思路正确，一次就过|
 |404|[ Sum of Left Leaves](https://github.com/Qoiuy/ACLeecode/tree/master/src/_404_Sum_of_Left_Leaves)|Easy|JAVA|	Accepted|3次才过，题意没有读清|
 |563|[ Binary Tree Tilt](https://github.com/Qoiuy/ACLeecode/tree/master/src/_563_Binary_Tree_Tilt)|Easy|JAVA|	Accepted|做题花了半天，题意没读懂是最大的问题|
+|530|[ Minimum Absolute Difference in BST ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_530_Minimum_Absolute_Difference_in_BST)|Easy|JAVA|	Accepted|我解题的效率是o2n 我看好多人都使用On解决的|
