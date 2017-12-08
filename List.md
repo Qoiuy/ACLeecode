@@ -1,5 +1,6 @@
 # 解题List
 
+#####总结1 Leetcode上tree的题目，凡是能遍历解决的都是easy
 
 | 题号 | 题目名称       | 等级 | 语言  |解决程度|是否跟进|
 |:-------:|:--------------|:------:|:---------:|:---------:|:---------:|
@@ -19,3 +20,5 @@
 |530|[ Minimum Absolute Difference in BST ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_530_Minimum_Absolute_Difference_in_BST)|Easy|JAVA|	Accepted|我解题的效率是o2n 我看好多人都使用On解决的|
 |100|[ Same Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_100_Same_Tree)|Easy|JAVA|	Accepted|效率有更优解|
 |543|[  Diameter of Binary Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_543_Diameter_of_Binary_Tree)|Easy|JAVA|	Accepted|别人的解题思路。需回头重新看一下|
+|108|[ Convert Sorted Array to Binary Search Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree)|Easy|JAVA|	Accepted|最开始没看明白题意，后来看明白了，然后终止条件不太好想|
+
