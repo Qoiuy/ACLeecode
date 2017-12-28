@@ -28,4 +28,6 @@
 |557|[ 	Reverse Words in a String III    ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_557_Reverse_Words_in_a_String_III)|Easy|JAVA|	Accepted| |
 |344|[ 	Reverse String   ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_344_Reverse_String)|Easy|JAVA|	Accepted| 超时了，然后使用StringBuffer就过了，过了， 过了|
 |412|[ 	Fizz Buzz  ](https://github.com/Qoiuy/ACLeecode/tree/master/src/412_Fizz_Buzz)|Easy|JAVA|	Accepted| |
+|521|[ 	Longest Uncommon Subsequence I  ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_521_Longest_Uncommon_Subsequence_I)|Easy|JAVA|	Accepted|看见最优解 我真的不知道说啥了 |
+
 
