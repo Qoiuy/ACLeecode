@@ -24,3 +24,5 @@
 |671|[ Second Minimum Node In a Binary Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_671_Second_Minimum_Node_In_a_Binary_Tree)|Easy|JAVA|	Accepted|最开始没看明白题意，后来看明白了，然后终止条件不太好想|
 |107|[ Binary Tree Level Order Traversal II](https://github.com/Qoiuy/ACLeecode/tree/master/src/_107_Binary_Tree_Level_Order_Traversal_II)|Easy|JAVA|	Accepted|注意，题目的demo里面有坑，不要使用递归做|
 |107|[ Subtree of Another Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_572_Subtree_of_Another_Tree)|Easy|JAVA|	Accepted|2次ac 效率差了一些，|
+|500|[ 	Keyboard Row   ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_500_Keyboard_Row)|Easy|JAVA|	Accepted||
+|557|[ 	Reverse Words in a String III    ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_557_Reverse_Words_in_a_String_III)|Easy|JAVA|	Accepted| |
