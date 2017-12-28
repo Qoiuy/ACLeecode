@@ -26,3 +26,4 @@
 |107|[ Subtree of Another Tree](https://github.com/Qoiuy/ACLeecode/tree/master/src/_572_Subtree_of_Another_Tree)|Easy|JAVA|	Accepted|2次ac 效率差了一些，|
 |500|[ 	Keyboard Row   ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_500_Keyboard_Row)|Easy|JAVA|	Accepted||
 |557|[ 	Reverse Words in a String III    ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_557_Reverse_Words_in_a_String_III)|Easy|JAVA|	Accepted| |
+|344|[ 	Reverse String   ](https://github.com/Qoiuy/ACLeecode/tree/master/src/_344_Reverse_String)|Easy|JAVA|	Accepted| 超时了，然后使用StringBuffer就过了，过了， 过了|
